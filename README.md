@@ -1,6 +1,8 @@
 # Crypto investment page
 
-![BTC](assets/img/bitcoinbaby.jpg)
+<p align="center">
+  <img src="assets/img/bitcoinbaby.jpg">
+</p>
 
 ## General Information 📝
 For this project I used pure HTML and CSS, without libraries or frameworks.
